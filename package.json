@@ -1,0 +1,15 @@
+{
+  "name": "napixitt-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^12.5.0",
+    "vite": "^7.1.0"
+  },
+  "devDependencies": {}
+}
